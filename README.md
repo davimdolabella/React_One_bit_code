@@ -4,3 +4,4 @@
 - [Biblioteca de jogos](https://davimdolabella.github.io/react-biblioteca-de-jogos/)
 - [Feed-de-Comentários](https://davimdolabella.github.io/feed-de-comentarios/)
 - [Jogo da Velha](https://davimdolabella.github.io/Tic-Tac-Toe-React/)
+- [Gestor de Estoque](https://davimdolabella.github.io/Gestor-de-Estoque/)
